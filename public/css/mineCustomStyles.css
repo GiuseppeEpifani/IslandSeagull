@@ -1,0 +1,116 @@
+html,
+body {
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+
+
+a {
+    text-decoration: none !important;
+}
+
+.user-footer a {
+    border: rgb(156, 155, 155) 0.5px solid !important;
+}
+
+.user-footer a:hover {
+    border: rgb(104, 103, 103) 0.5px solid !important;
+    color: rgb(104, 103, 103) !important;
+}
+
+.main-sidebar {
+    background: #2D95EA;
+    color: #ffffff;
+    outline: none !important;
+}
+
+.main-sidebar a {
+    color: #ffffff;
+    outline: none !important;
+}
+
+.sidebar ul i,
+.sidebar p {
+    color: #ffffff
+}
+
+.active {
+    background: #CCE8FF !important;
+    color: #2D95EA !important;
+}
+
+.active i,
+.active p {
+    color: #2D95EA !important;
+}
+
+.nav-link:hover {
+    color: #83b4db !important;
+}
+
+.user-header {
+    background: #2D95EA !important;
+    color: #ffffff
+}
+
+hr {
+    height: 8px !important;
+    background-image: linear-gradient(90deg, #CCE8FF, transparent) !important;
+    border: 0 !important;
+    height: 1px !important;
+}
+
+button {
+    outline: none !important;
+}
+
+.content-wrapper {
+    background: #ffffff !important;
+}
+
+.main-header {
+    background: #ffffff !important;
+    outline: none !important;
+    border-bottom: 10px solid #2d95ea !important;
+}
+
+.dataTables_length select {
+    border-radius: 10px !important;
+    color: #2d95ea !important;
+    border-color: #2d95ea !important;
+    outline: none !important;
+}
+
+.dataTables_info {
+    color: #2d95ea !important;
+}
+
+.navbar-nav .nav-link {
+    outline: none !important;
+}
+
+.text-suspencivo {
+    width: 230px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.btn-color,
+.btn-color-form {
+    background: #F66101 !important;
+    color: #ffffff !important;
+    border-radius: 6px !important;
+}
+
+.btn-color:hover {
+    background: #f5853a !important;
+    transform: scale(1.1, 1.1) !important;
+}
+
+.btn-color-form:hover {
+    background: #f5853a !important;
+}
+
+.span-color {
+    color: #2d95ea !important;
+}
